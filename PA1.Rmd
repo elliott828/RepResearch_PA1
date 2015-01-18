@@ -1,4 +1,5 @@
 # Peer Assessment 1
+1/17/2015, Reproducible Research
 
 ## 1. Loading and Preprocessing the Data
 Load the dataset, then take a glance at the structure and its first 10 observations.
